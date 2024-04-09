@@ -1,0 +1,10 @@
+Name of the student : Manya
+DETAILS :  Branch(CSE)   RollNo(85)  Year(2)
+Name of the student : Radhika
+DETAILS :  Branch(CSE)   RollNo(100)  Year(2)
+Name of the student : Pallavi
+DETAILS :  Branch(CSE)   RollNo(101)  Year(2)
+Name of the student : Ritik
+DETAILS :  Branch(ECE)   RollNo(121)  Year(2)
+Name of the student : Isha
+DETAILS :  Branch(CSE)   RollNo(07)  Year(4)

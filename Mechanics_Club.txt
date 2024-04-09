@@ -1,0 +1,16 @@
+Name of the student : Mehtab
+DETAILS :  Branch(CSE)   RollNo(90)  Year(2)
+Name of the student : Mohini
+DETAILS :  Branch(ICE)   RollNo(111)  Year(3)
+Name of the student : Anugya
+DETAILS :  Branch(IT)   RollNo(08)  Year(2)
+Name of the student : Rohit
+DETAILS :  Branch(IT)   RollNo(101)  Year(2)
+Name of the student : Anurag
+DETAILS :  Branch(CSE)   RollNo(02)  Year(2)
+Name of the student : Ritika
+DETAILS :  Branch(ECE)   RollNo(122)  Year(2)
+Name of the student : Taha
+DETAILS :  Branch(CSE)   RollNo(128)  Year(4)
+Name of the student : Bhuvi
+DETAILS :  Branch(CSE)   RollNo(44)  Year(3)

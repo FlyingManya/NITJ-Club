@@ -1,0 +1,16 @@
+Name of the student : Anupriya
+DETAILS :  Branch(ECE)   RollNo(19)  Year(2)
+Name of the student : Shradhha
+DETAILS :  Branch(IPE)   RollNo(111)  Year(3)
+Name of the student : Anup
+DETAILS :  Branch(IT)   RollNo(100)  Year(2)
+Name of the student : Rohit
+DETAILS :  Branch(IT)   RollNo(101)  Year(2)
+Name of the student : Anurag
+DETAILS :  Branch(CSE)   RollNo(02)  Year(2)
+Name of the student : Ritik
+DETAILS :  Branch(ECE)   RollNo(121)  Year(2)
+Name of the student : Isha
+DETAILS :  Branch(CSE)   RollNo(07)  Year(4)
+Name of the student : Rohil
+DETAILS :  Branch(ICE)   RollNo(99)  Year(2)
