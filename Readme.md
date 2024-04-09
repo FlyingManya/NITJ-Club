@@ -101,3 +101,11 @@ A Visual representation, showcasing different Clubs forming the College Academic
 <br>
 
 ![Alt text](Pictures/Literary_club_file.jpg)
+
+<br>
+
+## OOPs Concepts Used
+<br>
+
+![Alt text](Pictures/oops_concepts.jpg)
+*Showcases Various Object Oriented Programming concepts used in the code*
